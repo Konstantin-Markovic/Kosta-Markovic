@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting started in computation and c++.
 - 🌱 I’m currently learning coding through editors like emacs.
 
-- 📫 How to reach me: at my email @kosta.markovic20@gmail.com
+- 📫 How to reach me: at my email @tun64834.com
 
 <!---
 Kosta-Markovic/Kosta-Markovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
